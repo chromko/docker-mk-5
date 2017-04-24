@@ -3,3 +3,4 @@ images/*
 *.tar.gz
 *.zip
 module5_app/*
+*_backup.tar
